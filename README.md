@@ -17,7 +17,7 @@ A simple console-based quiz application developed in Java to test and enhance yo
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Quize_Console_app
+   cd Quize-Console-app
    ```
 3. Compile the Java files:
    ```bash
